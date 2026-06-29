@@ -57,7 +57,6 @@ Entre os principais atributos utilizados encontram-se:
 - Total de vítimas
 - Sexo das vítimas
 - Faixa etária
-- Tipo de arma (quando aplicável)
 
 Após o tratamento dos dados foram criadas variáveis temporais como:
 
