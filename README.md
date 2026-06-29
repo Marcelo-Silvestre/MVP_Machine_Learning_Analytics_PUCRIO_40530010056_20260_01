@@ -36,10 +36,9 @@ Para responder essa pergunta foram construídos modelos capazes de realizar prev
 
 Fonte:
 
-**Sistema Nacional de Informações de Segurança Pública (SINESP)**
+**Base de Dados e Notas Metodológicas dos Gestores Estaduais - Sinesp VDE 2015 a 2026**
 
-https://dados.gov.br/
-
+ https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1/base-de-dados-e-notas-metodologicas-dos-gestores-estaduais-sinesp-vde-2022-e-2023
 Período analisado:
 
 - Janeiro de 2020
