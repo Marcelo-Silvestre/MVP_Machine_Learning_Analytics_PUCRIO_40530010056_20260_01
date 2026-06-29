@@ -319,7 +319,7 @@ https://pandas.pydata.org/
 
 **Marcelo Alexandre Machado Silvestre**
 
-Supervisor do Controle Técnico de Manutenção (CTM) – Marinha do Brasil
+Supervisor de Controle Técnico de Manutenção (CTM) – Marinha do Brasil
 
 Pós-Graduando em Ciência de Dados e Analytics – PUC-Rio
 
