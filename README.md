@@ -246,34 +246,6 @@ Os modelos foram comparados em duas perspectivas:
 
 ---
 
-# 📷 Exemplos de Visualizações
-
-> *(Substitua pelas imagens exportadas do notebook.)*
-
-## Evolução Temporal
-
-```
-images/evolucao_temporal.png
-```
-
----
-
-## Comparação dos Modelos
-
-```
-images/comparacao_modelos.png
-```
-
----
-
-## Previsões para 2026
-
-```
-images/previsoes2026.png
-```
-
----
-
 # 🚀 Como Executar
 
 Clone o repositório
@@ -317,16 +289,6 @@ https://pandas.pydata.org/
 # 👨‍💻 Autor
 
 **Marcelo Alexandre Machado Silvestre**
-
-Supervisor de Controle Técnico de Manutenção (CTM) – Marinha do Brasil
-
-Pós-Graduando em Ciência de Dados e Analytics – PUC-Rio
-
-Pós-Graduando em Desenvolvimento Full Stack – PUC Minas
-
-Tecnólogo em Análise e Desenvolvimento de Sistemas
-
-Tecnólogo em Gestão Financeira
 
 ---
 
